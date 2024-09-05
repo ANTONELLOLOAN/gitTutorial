@@ -8,3 +8,4 @@ Un classico della cucina italiana.
 * aglio
 * sale
 * pepe
+* prezzemolo
